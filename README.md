@@ -6,9 +6,7 @@ CakeBot is a bot that is still in development, but getting better every day!
 
 ## Get the Bot
 
-You can install the bot on any server that your Discord account has `Manage Server` permission on.
-
-Todo: install link here
+See [this page](/invite.html) for instructions on adding the bot to your server!
 
 -----------------------------
 
