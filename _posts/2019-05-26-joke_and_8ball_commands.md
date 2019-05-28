@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introducing Joke and Magic 8 Ball Commands"
+author: RDIL
 ---
 
 Today we are announcing the `+joke` and `+8` commands.
