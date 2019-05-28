@@ -12,6 +12,6 @@ This command allows you to get a joke from the bot's collection. Who knows, you 
 ### `+8`
 
 This command allows you to use our legendary magic 8 ball. You need to pass your question as a parameter.
-You can read the docs on how to use it [here](https://rdil.github.io/commands.html#fun).
+You can read the docs on how to use it [here](https://cakebot.club/commands.html#fun).
 
 Thank you for all your support :pray:
