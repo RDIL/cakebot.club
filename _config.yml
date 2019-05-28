@@ -1,0 +1,25 @@
+theme: minima
+title: Cakebot
+name: Cakebot
+description: An amazing, high quality Discord bot!
+github_username: RDIL
+twitter_username: NerdyJumbo
+markdown: kramdown
+email: cakebotsupport@rdil.rocks
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-admin
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+permalink: /:title:output_ext
+title_separator: "-"
+repository: RDIL/cakebot
+show_excerpts: true
+rss: rss
+title_separator: "-"
+timezone: America/New_York
+encoding: UTF-8
+locale: "en"
