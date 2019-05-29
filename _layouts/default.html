@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {%- include patch/head.html -%}
+  {%- include head.html -%}
+  <meta name="twitter:card" content="summary">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.name }}">
 
   <body>
     {%- include header.html -%}
@@ -14,5 +16,4 @@
 
     {%- include footer.html -%}
   </body>
-
 </html>
