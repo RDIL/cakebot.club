@@ -5,7 +5,7 @@ description: An amazing, high quality Discord bot!
 github_username: RDIL
 twitter_username: NerdyJumbo
 markdown: kramdown
-email: cakebotsupport@rdil.rocks
+email: hey@cakebot.club
 plugins:
   - jekyll-feed
   - jekyll-sitemap
