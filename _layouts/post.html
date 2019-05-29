@@ -12,6 +12,8 @@ layout: default
       </time>
       {%- if page.author -%}
         - By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
+      {%- else -%}
+        - By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Cakebot Team</span></span>
       {%- endif -%}</p>
   </header>
 
