@@ -2,11 +2,12 @@
 
 ## Basic
 
-| **Command Name** 	| **Command Description**      	        | **Permission Required** 	|  **Parameters** 	|
-|------------------	|-------------------------------------- |-------------------------	|------------------	|
-| `+help`          	| Get the bot help menu        	        | Send chat messages.      	| None.           	|
-| `+invite`        	| Get a link to invite the bot 	        | Send chat messages.      	| None.           	|
-| `+ping`          	| See if the bot is online        	    | Send chat messages.      	| None.            	|
+| **Command Name** 	| **Command Description**      	                      | **Permission Required** 	|  **Parameters** 	|
+|------------------	|---------------------------------------------------- |-------------------------	|------------------	|
+| `+help`          	| Get the bot help menu        	                      | Send chat messages.      	| None.           	|
+| `+invite`        	| Get a link to invite the bot 	                      | Send chat messages.      	| None.           	|
+| `+ping`          	| See if the bot is online        	                  | Send chat messages.      	| None.            	|
+| `+info`          	| Get some basic info about the current server  	    | Send chat messages.      	| None.            	|
 
 ## Fun
 
