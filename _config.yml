@@ -3,7 +3,6 @@ title: Cakebot
 name: Cakebot
 description: An amazing, high quality Discord bot!
 github_username: RDIL
-twitter_username: NerdyJumbo
 markdown: kramdown
 email: hey@cakebot.club
 plugins:
