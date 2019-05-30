@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <ul class="post-list">
+    {%- for command in site.commands -%}
+    <li>
+      <h3>
+        <a class="post-link" href="{{ command.url | relative_url }}">
+          {{ command.name | escape }}
+        </a>
+        </h3>
+        <a href="{{ post.url | relative_url }}">View Docs</a>
+      </li>
+      {%- endfor -%}
+    </ul>
+
+</div>
