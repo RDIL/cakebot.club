@@ -13,6 +13,7 @@ plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-avatar
 permalink: /:title:output_ext
 title_separator: "-"
 repository: RDIL/cakebot
