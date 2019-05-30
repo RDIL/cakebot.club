@@ -8,5 +8,6 @@ layout: default
 Cakebot would not be possible without the help, time, and dedication of the following people:
 
 {% for contributor in site.data.contributors %}
-* {% avatar {{ contributor.github }} size=50 %} ({{ contributor.name }})[https://github.com/{{ contributor.github }}]
+
+* {% avatar {{ contributor.github }} size=50 %} {{ contributor.name }} - @{{ contributor.github }}
 {% endfor %}
