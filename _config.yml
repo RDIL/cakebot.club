@@ -22,3 +22,5 @@ title_separator: "-"
 timezone: America/New_York
 encoding: UTF-8
 locale: "en"
+collections:
+  - commands
