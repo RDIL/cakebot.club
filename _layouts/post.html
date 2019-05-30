@@ -10,11 +10,17 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      {%- if page.author -%}
-        - By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- else -%}
-        - By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Cakebot Team</span></span>
-      {%- endif -%}</p>
+      - By
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">
+            {%- if page.author -%}
+              {{ page.author | escape }}
+            {%- else -%}
+              Cakebot Team
+            {%- endif -%}
+          </span>
+        </span>
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
