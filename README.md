@@ -6,7 +6,7 @@ Cakebot is a Discord bot written in Python. It is still in development, but gett
 
 ## Get the Bot
 
-See [this dedicated page](/invite.html) for instructions on adding the bot to your server.
+See [this dedicated page](/invite.md) for instructions on adding the bot to your server.
 
 -----------------------------
 
