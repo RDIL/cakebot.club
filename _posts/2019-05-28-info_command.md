@@ -4,7 +4,7 @@ title: "Introducing Info Command"
 author: paramt
 ---
 
-We're delighted to announce the new `+info` command today :smiley:
+We're delighted to announce the new `+info` command today :v:
 
 ### Usage
 
