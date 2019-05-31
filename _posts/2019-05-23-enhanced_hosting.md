@@ -2,6 +2,7 @@
 layout: post
 title: "Better Hosting"
 author: RDIL
+category: development
 ---
 
 Today we are announcing enhanced hosting. We have migrated the whole bot runtime infrastructure on to [PythonAnywhere :snake:](https://pythonanywhere.com).
