@@ -2,6 +2,7 @@
 layout: post
 title: "Introducing The Report Command"
 author: paramt
+category: feature
 ---
 
 Today, we're extremely excited to announce the new `+report` command! 
