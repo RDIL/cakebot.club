@@ -18,7 +18,7 @@ Example:
 +report Hello! Please add ____ command that does ____. Thanks!
 ```
 
-Basic documentation can be found [here](./commands.html#help).
+Basic documentation can be found [here](./commands.md#help).
 
 #### The slower way
 
