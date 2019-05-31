@@ -1,7 +1,3 @@
----
-title: "Home"
----
-
 ## Home
 
 Cakebot is a Discord bot written in Python. It is still in development, but getting better every day!  
