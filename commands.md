@@ -15,3 +15,9 @@
 |------------------	|-------------------------------------- |-------------------------	|------------------	|
 | `+8`            	| Ask our magic 8 ball your questions   | Send chat messages.      	| Your question.   	|
 | `+joke`          	| Get one of the bot's excelent Jokes   | Send chat messages.      	| None.            	|
+
+## Help
+
+| **Command Name** 	| **Command Description**      	                                                 | **Permission Required** 	|  **Parameters** 	|
+|------------------	|------------------------------------------------------------------------------- |-------------------------	|------------------	|
+| `+report`        	| File a support ticket with the developers (request features, report bugs, etc.)                     | Send chat messages.      	| The message for the team.       	|
