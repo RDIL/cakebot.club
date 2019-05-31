@@ -20,4 +20,4 @@ This will then send your issue straight to the dev team, so we can start working
 ![Screenshot 2](https://user-images.githubusercontent.com/23563074/58676911-f9d59c80-8327-11e9-90e4-12cdd555b008.png)
 
 
-For more details, [read the docs](https://cakebot.club/commands.html#help).
+For more details, [read the docs](../commands.md#help).
