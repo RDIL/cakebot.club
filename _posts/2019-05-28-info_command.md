@@ -2,6 +2,7 @@
 layout: post
 title: "Introducing Info Command"
 author: paramt
+category: feature
 ---
 
 We're delighted to announce the new `+info` command today :v:
