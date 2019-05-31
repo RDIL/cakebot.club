@@ -1,4 +1,6 @@
-# Command List
+---
+title: Command List
+---
 
 ## Basic
 
