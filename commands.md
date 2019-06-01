@@ -1,5 +1,6 @@
 ---
 title: Command List
+layout: default
 ---
 
 ## Basic
