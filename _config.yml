@@ -4,7 +4,7 @@ name: Cakebot
 description: An amazing, high quality Discord bot!
 github_username: RDIL
 markdown: kramdown
-email: hey@cakebot.club
+email: cakebot@rdil.rocks
 plugins:
   - jekyll-feed
   - jekyll-sitemap
