@@ -22,4 +22,4 @@ Basic documentation can be found [here](./commands.md#help).
 
 #### The slower way
 
-The slower of the two ways is to [shoot us an email](mailto:hey@cakebot.club).
+The slower of the two ways is to [shoot us an email](mailto:{{ site.email }}).
