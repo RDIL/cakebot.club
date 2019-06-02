@@ -5,7 +5,7 @@ author: paramt
 category: feature
 ---
 
-With today's new release, cakebot will be able to track the International Space Station's position above Earth &ndash; in real time. :earth_americas:
+With today's new release, Cakebot is able to track the International Space Station's position above Earth in real time. :earth_americas:
 
 ### Usage
 
@@ -13,7 +13,8 @@ With today's new release, cakebot will be able to track the International Space 
 +iss
 ```
 
+Easy, right?
+
 ![Screenshot](https://user-images.githubusercontent.com/23563074/58756000-8b2a4780-84bd-11e9-82d9-93e1601d7d73.png)
 
 And as always, you can find out more about the command [from the docs](../commands.md#fun).
-
