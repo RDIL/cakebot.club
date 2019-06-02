@@ -14,10 +14,11 @@ layout: default
 
 ## Fun
 
-| **Command Name** 	| **Command Description**      	        | **Permission Required** 	|  **Parameters** 	|
-|------------------	|-------------------------------------- |-------------------------	|------------------	|
-| `+8`            	| Ask our magic 8 ball your questions   | Send chat messages.      	| Your question.   	|
-| `+joke`          	| Get one of the bot's excelent Jokes   | Send chat messages.      	| None.            	|
+| **Command Name** 	| **Command Description**      	         | **Permission Required**  	|  **Parameters** 	|
+|------------------	|--------------------------------------- |--------------------------	|------------------	|
+| `+8`            	| Ask our magic 8 ball your questions    | Send chat messages.      	| Your question.   	|
+| `+joke`          	| Get one of the bot's excelent Jokes    | Send chat messages.      	| None.            	|
+| `+iss`          	| Get the realtime location of the ISS   | Send chat messages.      	| None.            	|
 
 ## Help
 
