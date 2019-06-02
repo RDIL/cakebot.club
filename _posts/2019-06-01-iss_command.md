@@ -15,6 +15,6 @@ With today's new release, Cakebot is able to track the International Space Stati
 
 Easy, right?
 
-![Screenshot](https://user-images.githubusercontent.com/23563074/58756000-8b2a4780-84bd-11e9-82d9-93e1601d7d73.png)
+![Screenshot](https://user-images.githubusercontent.com/23563074/58763686-32de5e80-852c-11e9-9c98-2ebefc2401f4.png)
 
 And as always, you can find out more about the command [from the docs](../commands.md#fun).
