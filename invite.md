@@ -1,8 +1,6 @@
 ---
-title: "Invite the Bot"
+title: "Invite Bot"
 ---
-
-## Invite the Bot
 
 To invite the bot to your Discord server, follow these steps.
 1. Click [here](https://discordapp.com/oauth2/authorize?client_id=580573141898887199&scope=bot&permissions=8).
