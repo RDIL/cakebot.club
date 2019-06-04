@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
@@ -15,17 +14,16 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title | escape }}">
             {{ post.title | escape }}
           </a>
         </h3>
         {{ post.excerpt }}
-        <a href="{{ post.url | relative_url }}">Read more...</a>
+        <a href="{{ post.url | relative_url }}" title="Read more">Read more...</a>
       </li>
       {%- endfor -%}
     </ul>
 
     <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
   {%- endif -%}
-
 </div>
