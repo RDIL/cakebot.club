@@ -16,7 +16,6 @@ plugins:
   - jekyll-avatar
   - jekyll-github-metadata
   - jekyll-gist
-  - jekyll-octicons
 permalink: /:title:output_ext
 title_separator: "-"
 repository: RDIL/cakebot
