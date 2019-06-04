@@ -21,7 +21,6 @@ title_separator: "-"
 repository: RDIL/cakebot
 show_excerpts: true
 rss: rss
-title_separator: "-"
 timezone: America/New_York
 encoding: UTF-8
 locale: "en"
