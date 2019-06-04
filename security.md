@@ -1,13 +1,15 @@
 ---
 title: Privacy Policy
 layout: default
+last_modified_at: 2019-06-03
 ---
 
 We take your privacy very seriously.
 
 ## Website
 
-When you visit our website (https://cakebot.club and it’s subpages), we do not store cookies, or use trackers of any kind.
+When you visit our website (https://cakebot.club and all subpages), we do not store cookies, or use trackers of any kind.
+We employ [`DNSSEC` technology](https://www.icann.org/resources/pages/dnssec-what-is-it-why-important-2019-03-05-en), and have SSL enabled at all times!
 
 ## On Discord
 
