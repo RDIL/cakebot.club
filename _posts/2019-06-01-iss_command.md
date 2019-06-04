@@ -9,7 +9,7 @@ With today's new release, Cakebot is able to track the International Space Stati
 
 ### Usage
 
-```
+```none
 +iss
 ```
 

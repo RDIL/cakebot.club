@@ -19,6 +19,7 @@ layout: default
 | `+8`            	| Ask our magic 8 ball your questions    | Send chat messages.      	| Your question.   	|
 | `+joke`          	| Get one of the bot's excelent Jokes    | Send chat messages.      	| None.            	|
 | `+iss`          	| Get the realtime location of the ISS   | Send chat messages.      	| None.            	|
+| `+slots`       	| Play some slots without having to head to a casino!   | Send chat messages.      	| None.            	|
 
 ## Help
 
