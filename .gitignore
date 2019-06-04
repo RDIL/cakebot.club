@@ -17,3 +17,5 @@ build/
 /vendor/bundle
 /lib/bundler/man/
 .rvmrc
+.sass-cache/
+_site/
