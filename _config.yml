@@ -28,5 +28,3 @@ encoding: UTF-8
 locale: "en"
 url: https://cakebot.club
 twitter_username: Cakebotpro
-pagination: 2
-paginate_path: "/blog/page:num/"
