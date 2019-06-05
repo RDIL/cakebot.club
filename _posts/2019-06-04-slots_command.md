@@ -6,8 +6,6 @@ date: 2019-06-04
 category: feature
 ---
 
-Hello all!
-
 Today we added a brand new command which allows you to test your luck inside the casino :wink:.  Introducing... slots!
 
 You can invoke the command by simply typing `+slots` in any channel the bot has permission to read and send messages for!
