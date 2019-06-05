@@ -21,6 +21,8 @@ layout: default
 | `+iss`          	| Get the realtime location of the ISS                  | Send chat messages.      	| None.            	|
 | `+slots`        	| Play some slots without having to head to a casino!   | Send chat messages.      	| None.            	|
 
+> *Note*: spamming `+slots` will cause lag for the bot.
+
 ## Help
 
 | **Command Name** 	| **Command Description**      	                                                 | **Permission Required** 	|  **Parameters** 	|
