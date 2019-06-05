@@ -30,4 +30,4 @@ This privacy policy may change without warning if the team decides.
 
 Any questions should be directed to our public email (listed in footer).
 
-This page was last updated on June 3rd, 2019.
+This page was last updated on {{ page.last_modified_at }}.
