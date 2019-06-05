@@ -4,8 +4,5 @@
 /* Make links darker so that they pass accessibility checks */
 $brand-color: #0a53b2;
 
-/* Make some text darker so that they pass accessibility checks */
-$gray-color: #545353;
-
 /* Mixin to Minima */
 @import "{{ site.theme }}";
