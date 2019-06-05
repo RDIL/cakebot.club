@@ -2,7 +2,7 @@ theme: minima
 title: Cakebot
 name: Cakebot
 description: An amazing in development yet high quality Discord bot!
-github_username: RDIL
+github_username: cakebotpro
 markdown: kramdown
 email: cakebot@rdil.rocks
 plugins:
