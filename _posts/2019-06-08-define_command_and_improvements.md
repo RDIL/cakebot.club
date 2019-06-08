@@ -18,3 +18,11 @@ Since our last post, we have mainly been working to improve performance, includi
 ## Updates to Source Code
 
 We also did a lot of renaming/simplifying/modernizing of code, to make it easier for all of us. We are pretty sure this didn't break anything, but if it did, *please* help us out by filing a report.
+
+## Welcoming a New Sponsor!
+
+We would like to thank [CloudRepo](https://cloudrepo.io) for sponsoring us. Thanks to them, we no longer have to deal with managing packages on PyPI, making our codebase more healthy overall.
+
+## Conclusion
+
+Thank you everyone for your continued support of Cakebot :bowtie:
