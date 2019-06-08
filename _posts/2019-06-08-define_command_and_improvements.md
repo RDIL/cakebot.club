@@ -25,4 +25,4 @@ We would like to thank [CloudRepo](https://cloudrepo.io) for sponsoring us. Than
 
 ## Conclusion
 
-Thank you everyone for your continued support of Cakebot :bowtie:
+Thank you everyone for your continued support of Cakebot :smile_cat:
