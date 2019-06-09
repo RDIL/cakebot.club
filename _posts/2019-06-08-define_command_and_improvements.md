@@ -21,7 +21,7 @@ We also did a lot of renaming/simplifying/modernizing of code, to make it easier
 
 ## Welcoming a New Sponsor!
 
-We would like to thank [CloudRepo](https://cloudrepo.io) for sponsoring us. Thanks to them, we no longer have to deal with managing packages on PyPI, making our codebase more healthy overall.
+We would like to thank [CloudRepo](https://cloudrepo.io) for sponsoring us. Thanks to them, we no longer have to deal with managing dependencies on PyPI, making our codebase more healthy and easier to manage overall.
 
 ## Conclusion
 
