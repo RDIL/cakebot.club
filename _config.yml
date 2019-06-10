@@ -7,7 +7,6 @@ markdown: kramdown
 email: cakebot@rdil.rocks
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jemoji
   - jekyll-admin
   - jekyll-mentions
