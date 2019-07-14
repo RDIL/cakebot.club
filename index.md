@@ -5,9 +5,7 @@ hide: true
 permalink: /
 ---
 
-Cakebot is a Discord bot written in Python. It is still in development, but getting better every day!  
-
------------------------------
+Cakebot is a Discord bot written in Python. It is still in development, but getting better every day!
 
 ## Get the Bot
 
