@@ -28,6 +28,7 @@ layout: default
 | **Command Name** 	| **Command Description**      	                      | **Permission Required** 	| **Parameters**          	|
 |------------------	|---------------------------------------------------- |-------------------------	|-------------------------	|
 | `+define`        	| Define a word through Merriam-Webster dictionary    | Send chat messages      	| The word you want defined	|
+| `+pi`                 | Get the first 123 digits of Pi                      | Send chat messages              | None                          |
 
 ## Help
 
