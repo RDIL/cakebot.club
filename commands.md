@@ -20,6 +20,7 @@ layout: default
 | `+joke`          	| Get one of the bot's excelent Jokes                   | Send chat messages      	| None            	|
 | `+iss`          	| Get the realtime location of the ISS                  | Send chat messages      	| None            	|
 | `+slots`        	| Play some slots without having to head to a casino!   | Send chat messages      	| None            	|
+| `+coinflip`       | Flip a coin.                                          | Send chat messages        | None              |
 
 > *Note*: spamming `+slots` will cause lag for the bot.
 
@@ -28,7 +29,7 @@ layout: default
 | **Command Name** 	| **Command Description**      	                      | **Permission Required** 	| **Parameters**          	|
 |------------------	|---------------------------------------------------- |-------------------------	|-------------------------	|
 | `+define`        	| Define a word through Merriam-Webster dictionary    | Send chat messages      	| The word you want defined	|
-| `+pi`                 | Get the first 123 digits of Pi                      | Send chat messages              | None                          |
+| `+pi`             | Get the first 123 digits of Pi                      | Send chat messages        | None                      |
 
 ## Help
 
