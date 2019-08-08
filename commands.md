@@ -36,3 +36,9 @@ layout: default
 | **Command Name** 	| **Command Description**      	                                                 | **Permission Required** 	|  **Parameters** 	|
 |------------------	|------------------------------------------------------------------------------- |-------------------------	|------------------	|
 | `+report`        	| File a support ticket with the developers (request features, report bugs, etc.)                     | Send chat messages      	| The message for the team        	|
+
+## GitHub
+
+| **Command Name** 	| **Command Description**      	                      | **Permission Required** 	|  **Parameters**           	|
+|------------------	|---------------------------------------------------- |-------------------------	|---------------------------	|
+| `+stars`         	| Get the star count for a repository                 | Send chat messages      	| The repository (e.g. `cakebotpro/cakebot`) |
