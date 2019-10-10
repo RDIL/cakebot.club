@@ -4,9 +4,8 @@ name: Cakebot
 description: An amazing in development yet high quality Discord bot!
 github_username: cakebotpro
 markdown: kramdown
-email: cakebot@rdil.rocks
+email: me@rdil.rocks
 plugins:
-  - jekyll-feed
   - jemoji
   - jekyll-admin
   - jekyll-mentions
@@ -19,7 +18,6 @@ permalink: /:title:output_ext
 title_separator: "-"
 repository: RDIL/cakebot
 show_excerpts: true
-rss: rss
 timezone: America/New_York
 encoding: UTF-8
 locale: "en"
