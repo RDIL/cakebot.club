@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  {%- include meta.html -%}
-  <meta name="twitter:card" content="summary">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ site.name }}">
-  <meta name="twitter:title" content="{{ site.name }}">
-  <meta name="twitter:description" content="{{ site.description }}">
-
+  {%- seo -%}
   <body>
     {%- include header.html -%}
 
