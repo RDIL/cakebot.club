@@ -23,6 +23,10 @@ layout: default
 | `+coinflip`       | Flip a coin.                                          | Send chat messages        | None              |
 | `+clapify`       	| Add claps in between each word in the given word set  | Send chat messages      	| The phrase to add claps to	|
 
+> An example of clapify:
+> `+clapify its wednesday my dudes`
+> will output "its :clap: wednesday :clap: my :clap: dudes"
+>
 > *Note*: spamming `+slots` will cause lag for the bot.
 
 ## Educational
