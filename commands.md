@@ -21,6 +21,7 @@ layout: default
 | `+iss`          	| Get the realtime location of the ISS                  | Send chat messages      	| None            	|
 | `+slots`        	| Play some slots without having to head to a casino!   | Send chat messages      	| None            	|
 | `+coinflip`       | Flip a coin.                                          | Send chat messages        | None              |
+| `+clapify`       	| Add claps in between each word in the given word set  | Send chat messages      	| The phrase to add claps to	|
 
 > *Note*: spamming `+slots` will cause lag for the bot.
 
@@ -42,3 +43,4 @@ layout: default
 | **Command Name** 	| **Command Description**      	                      | **Permission Required** 	|  **Parameters**           	|
 |------------------	|---------------------------------------------------- |-------------------------	|---------------------------	|
 | `+stars`         	| Get the star count for a repository                 | Send chat messages      	| The repository (e.g. `cakebotpro/cakebot`) |
+| `+homepage`      	| Get the homepage for a repository                   | Send chat messages      	| The repository (e.g. `cakebotpro/cakebot`) |
