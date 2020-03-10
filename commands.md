@@ -29,6 +29,15 @@ layout: default
 >
 > *Note*: spamming `+slots` will cause lag for the bot.
 
+### Cookies
+
+With Cakebot, you can give users you like cookies. They are reflected across Discord and will have a leaderboard soon.
+
+| **Command Name** 	| **Command Description**               | **Permission Required** |  **Parameters**        |
+|------------------	|---------------------------------------|-------------------------|----------------------- |
+| `+cookie give`	| Give a cookie to the mentioned user   | Send chat messages      | The person (@tag) them |
+| `+cookie bal`     | Get the number of cookies a user has  | Send chat messages      | The person (@tag) them |
+
 ## Educational
 
 | **Command Name** 	| **Command Description**      	                      | **Permission Required** 	| **Parameters**          	|
