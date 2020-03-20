@@ -14,9 +14,9 @@ plugins:
   - jekyll-github-metadata
   - jekyll-gist
   - jekyll-seo-tag
-permalink: /:title:output_ext
+permalink: /:title
 title_separator: "-"
-repository: RDIL/cakebot
+repository: cakebotpro/cakebot
 show_excerpts: true
 timezone: America/New_York
 encoding: UTF-8
