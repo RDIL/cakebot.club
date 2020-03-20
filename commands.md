@@ -1,6 +1,7 @@
 ---
 title: Command List
 layout: default
+redirect_from: /commands/
 ---
 
 ## Basic
