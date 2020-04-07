@@ -12,6 +12,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
+      - name: Configure git identity
+        run: git config --global user.name "RDILBot" && git config --global user.email "support@rdil.rocks"
       - name: Yarn cache
         uses: actions/cache@v1
         with:
