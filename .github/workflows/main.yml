@@ -21,9 +21,9 @@ jobs:
           key: yarn|${{ hashFiles('yarn.lock') }}
       - name: Install dependencies
         run: yarn install
-      - name: Reset origin
-        run: git remote rm origin && git remote add origin https://RDIL:${PUSH_TOKEN}@github.com/cakebotpro/cakebot.git
+      - name: Pre-build cleanup
+        run: yarn gh-pages-clean
       - name: Build
-        env:
-          GIT_USER: RDILBot
-        run: yarn deploy
+        run: yarn build
+      - name: Commit and Push
+        run: git remote set-url origin https://RDIL:${PUSH_TOKEN}@github.com/cakebotpro/cakebotpro.github.io.git && yarn gh-pages
