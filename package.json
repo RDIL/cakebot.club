@@ -9,7 +9,7 @@
     "deploy": "docusaurus deploy",
     "prettier": "prettier --write **/*.{js,css,json,md}",
     "gh-pages-clean": "gh-pages-clean",
-    "gh-pages": "gh-pages -d build"
+    "gh-pages": "gh-pages -d build -b master"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.50",
