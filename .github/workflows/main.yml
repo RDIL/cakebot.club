@@ -1,6 +1,9 @@
 name: Build and Deploy
 
-on: [push]
+on:
+  push:
+    branches:
+      - docusaurus
 
 jobs:
   build:
@@ -26,4 +29,6 @@ jobs:
       - name: Build
         run: yarn build
       - name: Commit and Push
-        run: git remote set-url origin https://RDIL:${PUSH_TOKEN}@github.com/cakebotpro/cakebotpro.github.io.git && yarn gh-pages
+        env:
+          RDIL_TOKEN: ${{ secrets.PUSH_TOKEN }}
+        run: git remote set-url origin https://RDIL:${RDIL_TOKEN}@github.com/cakebotpro/cakebotpro.github.io.git && yarn gh-pages
