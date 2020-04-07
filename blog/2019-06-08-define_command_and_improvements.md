@@ -15,7 +15,7 @@ Since our last post, we have mainly been working to improve performance, includi
 
 ## Updates to Source Code
 
-We also did a lot of renaming/simplifying/modernizing of code, to make it easier for all of us. We are pretty sure this didn't break anything, but if it did, *please* help us out by filing a report.
+We also did a lot of renaming/simplifying/modernizing of code, to make it easier for all of us. We are pretty sure this didn't break anything, but if it did, _please_ help us out by filing a report.
 
 ## Welcoming a New Sponsor!
 

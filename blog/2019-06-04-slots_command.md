@@ -3,7 +3,7 @@ title: New slots command!
 author: RDIL
 ---
 
-Today we added a brand new command which allows you to test your luck inside the casino :wink:.  Introducing... slots!
+Today we added a brand new command which allows you to test your luck inside the casino :wink:. Introducing... slots!
 
 ## How to Use
 
