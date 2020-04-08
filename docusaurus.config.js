@@ -41,6 +41,10 @@ module.exports = {
             {
               label: "Home",
               to: "docs/home"
+            },
+            {
+              label: "Command List",
+              to: "docs/commands"
             }
           ]
         },

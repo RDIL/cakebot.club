@@ -17,17 +17,22 @@ const features = [
     )
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Lots of Commands</>,
     description: (
       <>
-        This webpage is brand new so we will come up with something to put here
-        later.
+        We have a lot of commands now, ranging from fun to educational, and have
+        new commands in most of our updates.
       </>
     )
   },
   {
-    title: <>Powered by React</>,
-    description: <>Thanks for understanding.</>
+    title: <>Self-hostable</>,
+    description: (
+      <>
+        If you aren't happy with Cakebot being on our servers, you can get it on your own.
+        This allows for a lot of flexibility. Plus, anybody can do it.
+      </>
+    )
   }
 ]
 
