@@ -1,9 +1,13 @@
 ---
 title: New slots command!
-author: RDIL
+author: Reece Dunham
+author_title: Team Lead
+author_url: https://rdil.rocks/
 ---
 
 Today we added a brand new command which allows you to test your luck inside the casino :wink:. Introducing... slots!
+
+<!--truncate-->
 
 ## How to Use
 
@@ -11,8 +15,8 @@ You can invoke the command by simply typing `+slots` in any channel the bot has 
 
 ## Screenshots
 
-![Player Wins]({{ "/assets/blog_images/slots_win.JPG" | relative_url }})
-![Player Does Not Win]({{ "/assets/blog_images/slots_lose.JPG" | relative_url }})
+![Player Wins](/blog_images/slots_win.JPG)
+![Player Does Not Win](/blog_images/slots_lose.JPG)
 
 ## Conclusion
 

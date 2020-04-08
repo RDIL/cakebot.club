@@ -1,18 +1,22 @@
 ---
 title: "Two new commands added!"
-author: RDIL
+author: Reece Dunham
+author_title: Team Lead
+author_url: https://rdil.rocks/
 ---
 
 With today's new release, Cakebot is able to not only tell you the first 123 digits of Pi, it can also flip a coin for you.
 
-### Usage
+<!--truncate-->
 
-#### Coinflip
+## Usage
+
+### Coinflip
 
 Simply run `+coinflip` :money_with_wings:
 
-#### Pi
+### Pi
 
 Very easy, just go ahead and drop `+pi` in a text channel for your mathematical needs.
 
-And as always, you can find out more about the commands [from the docs](../commands.md#fun).
+And as always, you can find out more about the commands [from the docs](/docs/commands#fun).

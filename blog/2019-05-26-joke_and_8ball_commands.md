@@ -1,6 +1,8 @@
 ---
 title: "Introducing Joke and Magic 8 Ball Commands"
-author: RDIL
+author: Reece Dunham
+author_title: Team Lead
+author_url: https://rdil.rocks/
 ---
 
 Today we are announcing the `+joke` and `+8` commands.

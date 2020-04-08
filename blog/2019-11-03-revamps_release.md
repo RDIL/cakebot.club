@@ -1,6 +1,8 @@
 ---
 title: "Major Revamps"
-author: RDIL
+author: Reece Dunham
+author_title: Team Lead
+author_url: https://rdil.rocks/
 ---
 
 Hello all,
@@ -23,12 +25,6 @@ New in this release:
 
 We fixed a lot of bugs that allowed you to run commands without passing needed arguments.
 It is now _required_!!
-
-## Planned for the Future
-
-The following item(s) will be added to the bot:
-
-- Hypixel stats - coming 2020 Q1
 
 ## :tada:
 

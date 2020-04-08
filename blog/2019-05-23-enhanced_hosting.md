@@ -1,9 +1,13 @@
 ---
 title: "Better Hosting"
-author: RDIL
+author: Reece Dunham
+author_title: Team Lead
+author_url: https://rdil.rocks/
 ---
 
 Today we are announcing enhanced hosting. We have migrated the whole bot runtime infrastructure on to [PythonAnywhere :snake:](https://pythonanywhere.com).
+
+<!--truncate-->
 
 ### What does this mean for the developers?
 

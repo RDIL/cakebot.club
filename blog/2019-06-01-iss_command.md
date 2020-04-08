@@ -1,9 +1,13 @@
 ---
 title: "Track the ISS without ever having to leave Discord!"
-author: paramt
+author: Param Thakkar
+author_title: Developer
+author_url: https://param.me/
 ---
 
 With today's new release, Cakebot is able to track the International Space Station's position above Earth in real time. :earth_americas:
+
+<!--truncate-->
 
 ### Usage
 
@@ -11,6 +15,6 @@ Just type `+iss`.
 
 Easy, right?
 
-![Screenshot](https://cakebot.club/assets/blog_images/iss_screenshot.png)
+![Screenshot](/blog_images/iss_screenshot.png)
 
-And as always, you can find out more about the command [from the docs](../commands.md#fun).
+And as always, you can find out more about the command [from the docs](/docs/commands#fun).

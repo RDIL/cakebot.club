@@ -1,6 +1,8 @@
 ---
 title: "Update to +info"
-author: RDIL
+author: Reece Dunham
+author_title: Team Lead
+author_url: https://rdil.rocks/
 ---
 
 A quick update to `+info` has arrived!
