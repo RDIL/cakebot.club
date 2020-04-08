@@ -26,7 +26,7 @@ module.exports = {
           position: "left"
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/cakebotpro/cakebot",
           label: "GitHub",
           position: "right"
         }
@@ -68,10 +68,17 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/cakebotpro/cakebotpro.github.io/edit/master/"
+            "https://github.com/cakebotpro/cakebotpro.github.io/edit/master/",
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css")
+        },
+        sitemap: {
+          cacheTime: 600 * 1000,
+          changefreq: "weekly",
+          priority: 0.5
         }
       }
     ]
