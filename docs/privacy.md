@@ -1,7 +1,5 @@
 ---
 title: Privacy Policy
-layout: default
-last_modified_at: 2019-06-03
 ---
 
 We take your privacy very seriously.
@@ -16,7 +14,13 @@ We employ [`DNSSEC` technology](https://www.icann.org/resources/pages/dnssec-wha
 When you file a support ticket, it is publicized while open. It does include your Discord username and tag so we can get back to you.
 All tickets are kept after being closed.
 
-> Tickets can be deleted upon request from the author.
+> Tickets can be deleted upon request to a team member from the author.
+
+## Error Logging
+
+If an error within our code triggers while you are executing a command, we will capture your Discord username, ID, and discriminator.
+
+This data is stored by [Sentry](https://sentry.io).
 
 ## Change
 
@@ -24,6 +28,8 @@ This privacy policy may change without warning if the team decides.
 
 ## Final Notes
 
-Any questions should be directed to our public email (listed in footer).
+Any questions should be directed to [our public email](mailto:me@rdil.rocks).
 
-This page was last updated on {{ page.last_modified_at }}.
+-----
+
+This page was last updated on Wednesday April 8th, 2020.

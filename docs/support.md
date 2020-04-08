@@ -1,15 +1,12 @@
 ---
-layout: default
 title: Get Help
 ---
 
-## Get Help
-
 Having problems with the bot? Want a certain feature added? Well, you are in luck.
 
-### Ways to get help
+## Ways to get help
 
-#### The faster way
+### The faster way
 
 The faster of the two ways is to use our `report` command. This can be executed in any channel the bot has access to.
 Example:
@@ -20,6 +17,6 @@ Example:
 
 Basic documentation can be found [here](./commands.md#help).
 
-#### The slower way
+### The slower way
 
-The slower of the two ways is to [shoot us an email](mailto:{{ site.email }}).
+The slower of the two ways is to [shoot us an email](mailto:me@rdil.rocks).

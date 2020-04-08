@@ -59,10 +59,6 @@ module.exports = {
         }
       ],
       copyright: "Copyright © 2019-present Cakebot"
-    },
-    algolia: {
-      apiKey: "c56b3950674be6b31e5f89c4c75c0120",
-      indexName: "cakebot"
     }
   },
   presets: [
