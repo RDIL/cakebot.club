@@ -59,6 +59,10 @@ module.exports = {
         }
       ],
       copyright: "Copyright © 2019-present Cakebot"
+    },
+    algolia: {
+      apiKey: "c56b3950674be6b31e5f89c4c75c0120",
+      indexName: "cakebot"
     }
   },
   presets: [
@@ -71,6 +75,13 @@ module.exports = {
             "https://github.com/cakebotpro/cakebotpro.github.io/edit/master/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true
+        },
+        blog: {
+          feedOptions: {
+            type: "all",
+            copyright: "Copyright (c) 2019-present Cakebot.",
+            language: "en-US"
+          }
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css")
