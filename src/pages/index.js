@@ -29,8 +29,8 @@ const features = [
     title: <>Self-hostable</>,
     description: (
       <>
-        If you aren't happy with Cakebot being on our servers, you can get it on your own.
-        This allows for a lot of flexibility. Plus, anybody can do it.
+        If you aren't happy with Cakebot being on our servers, you can get it on
+        your own. This allows for a lot of flexibility. Plus, anybody can do it.
       </>
     )
   }

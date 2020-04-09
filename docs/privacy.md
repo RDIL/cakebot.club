@@ -30,6 +30,6 @@ This privacy policy may change without warning if the team decides.
 
 Any questions should be directed to [our public email](mailto:me@rdil.rocks).
 
------
+---
 
 This page was last updated on Wednesday April 8th, 2020.
