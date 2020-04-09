@@ -15,6 +15,6 @@ Just type `+iss`.
 
 Easy, right?
 
-![Screenshot](/blog_images/iss_screenshot.png)
+![Screenshot](/img/iss_screenshot.png)
 
 And as always, you can find out more about the command [from the docs](/docs/commands#fun).

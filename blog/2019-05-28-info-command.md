@@ -13,6 +13,6 @@ We're delighted to announce the new `+info` command today :v:
 
 This command provides some basic information about the server it is run on!
 
-![Screenshot](/blog_images/info_command.png)
+![Screenshot](/img/info_command.png)
 
 For more details you can [read the docs](/docs/commands#basic).

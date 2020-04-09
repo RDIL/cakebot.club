@@ -14,7 +14,9 @@ New in this release:
 
 - Development experience has been improved :shipit:
 - Many bugs have been fixed - no more using `+report` without any message :bug:!
-- `+homepage` and `+stars` are out of beta and fully into the spotlight. Let us GitHubbers rejoyce! :octocat:
+- `+homepage` and `+stars` are out of beta and fully into the spotlight. Let us GitHubbers rejoyce!
+
+<!--truncate-->
 
 ## New Commands
 

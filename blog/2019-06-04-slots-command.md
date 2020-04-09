@@ -15,8 +15,8 @@ You can invoke the command by simply typing `+slots` in any channel the bot has 
 
 ## Screenshots
 
-![Player Wins](/blog_images/slots_win.JPG)
-![Player Does Not Win](/blog_images/slots_lose.JPG)
+![Player Wins](/img/slots_win.JPG)
+![Player Does Not Win](/img/slots_lose.JPG)
 
 ## Conclusion
 
