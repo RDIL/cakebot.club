@@ -3,6 +3,7 @@ title: New slots command!
 author: Reece Dunham
 author_title: Team Lead
 author_url: https://rdil.rocks/
+author_image_url: /img/rdil.png
 ---
 
 Today we added a brand new command which allows you to test your luck inside the casino :wink:. Introducing... slots!

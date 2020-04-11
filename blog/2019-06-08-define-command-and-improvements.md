@@ -1,6 +1,7 @@
 ---
 title: "New Command and Features are Here"
 author: Cakebot Team
+author_url: https://cakebot.club/
 ---
 
 We're delighted to announce the new `+define` command, as well as some insights into current and future development.

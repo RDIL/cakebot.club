@@ -3,6 +3,7 @@ title: "Introducing The Report Command"
 author: Param Thakkar
 author_title: Developer
 author_url: https://param.me/
+author_image_url: /img/paramt.png
 ---
 
 Today, we're extremely excited to announce the new `+report` command!
@@ -18,7 +19,7 @@ This new feature makes it super easy to report bugs and request new features str
 
 ![Screenshot 1](/img/report_command_1.png)
 
-This will then send your issue straight to the dev team, so we can start working on a fix right away
+This will then send your issue straight to the dev team, so we can start working on a fix right away.
 
 ![Screenshot 2](/img/report_command_2.png)
 

@@ -3,6 +3,7 @@ title: "Better Hosting"
 author: Reece Dunham
 author_title: Team Lead
 author_url: https://rdil.rocks/
+author_image_url: /img/rdil.png
 ---
 
 Today we are announcing enhanced hosting. We have migrated the whole bot runtime infrastructure on to [PythonAnywhere :snake:](https://pythonanywhere.com).

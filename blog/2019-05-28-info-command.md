@@ -3,6 +3,7 @@ title: "Introducing Info Command"
 author: Param Thakkar
 author_title: Developer
 author_url: https://param.me/
+author_image_url: /img/paramt.png
 ---
 
 We're delighted to announce the new `+info` command today :v:
