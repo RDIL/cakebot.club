@@ -1,5 +1,5 @@
 ---
-title: "Invite The Bot"
+title: "Invite the Bot"
 ---
 
 To invite the bot to your Discord server, follow these steps.

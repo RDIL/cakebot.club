@@ -40,11 +40,15 @@ module.exports = {
           items: [
             {
               label: "Home",
-              to: "docs/home"
+              to: "docs/home/"
             },
             {
               label: "Command List",
-              to: "docs/commands"
+              to: "docs/commands/"
+            },
+            {
+              label: "Invite the Bot",
+              to: "docs/invite/"
             }
           ]
         },
@@ -93,5 +97,6 @@ module.exports = {
         }
       }
     ]
-  ]
+  ],
+  plugins: ["@docusaurus/plugin-ideal-image"]
 }

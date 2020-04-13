@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: "Privacy Policy"
 ---
 
 We take your privacy very seriously.

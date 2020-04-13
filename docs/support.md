@@ -1,5 +1,5 @@
 ---
-title: Get Help
+title: "Get Help"
 ---
 
 Having problems with the bot? Want a certain feature added? Well, you are in luck.
