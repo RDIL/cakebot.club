@@ -1,5 +1,6 @@
 ---
-title: "Privacy Policy"
+title: Privacy Policy
+description: A document that covers how we handle privacy.
 ---
 
 We take your privacy very seriously.

@@ -1,5 +1,6 @@
 ---
-title: "Invite the Bot"
+title: Invite the Bot
+description: Instructions on how to add Cakebot to your Discord server.
 ---
 
 To invite the bot to your Discord server, follow these steps.

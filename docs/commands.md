@@ -1,7 +1,6 @@
 ---
 title: Command List
-layout: default
-redirect_from: /commands/
+description: A list of commands you can run for Cakebot.
 ---
 
 ## Basic

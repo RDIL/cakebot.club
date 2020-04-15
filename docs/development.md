@@ -1,5 +1,6 @@
 ---
-title: "Development Guide"
+title: Development Guide
+description: Welcome to the development guide! This is basically a reference sheet to help you through the process of developing Cakebot.
 ---
 
 Welcome to the development guide!
