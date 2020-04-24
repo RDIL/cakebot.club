@@ -162,3 +162,21 @@ If the last line of your stack contains `improper token passed`, try these steps
 #### `ImportError`
 
 See [PythonAnywhere's guide on fixing these](https://help.pythonanywhere.com/pages/DebuggingImportError).
+
+## Profiling
+
+If the bot seems to have a performance issue, you can try enabling the profiler to find the issue.
+
+:::note
+
+This does require you to have admin access to the bot (your Discord user ID in the `UserUtil` file).
+
+:::
+
+To start profiling, run the command `start-profiler` in any Discord channel.
+
+The profiler will start analysis in the background.
+
+To end the profiling session and get results, just run `stop-profiler`.
+
+All recorded results will be outputted to the `profile.txt` file.

@@ -58,3 +58,22 @@ With Cakebot, you can give users you like cookies. They are reflected across Dis
 | ---------------- | ----------------------------------- | ----------------------- | ------------------------------------------ |
 | `+stars`         | Get the star count for a repository | Send chat messages      | The repository (e.g. `cakebotpro/cakebot`) |
 | `+homepage`      | Get the homepage for a repository   | Send chat messages      | The repository (e.g. `cakebotpro/cakebot`) |
+
+## Admin
+
+:::warning Permissions
+
+To run these commands, you will need to self-host Cakebot.
+To add yourself to the list of administrators for your Cakebot instance,
+open the `cakebot/UserUtil.py` file, and add your Discord user ID to the end of the list.
+If you don't know how to, [this short guide will help](https://www.w3schools.com/python/python_lists.asp)
+(take a look at the first exampe under the 'List' header).
+
+:::
+
+| **Command Name**  | **Command Description**                                                | **Parameters**         |
+| ----------------- | ---------------------------------------------------------------------- | -----------------------|
+| `+reboot`         | Shut the bot down                                                      | None                   |
+| `+start-profiler` | Start the profiler (for developers only, this will slow the bot down!) | None                   |
+| `+stop-profiler`  | Stop the profiler                                                      | None                   |
+| `+admin:reset`    | Set a user's cookie count back to 0.                                   | The person (@tag) them |

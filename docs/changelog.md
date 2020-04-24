@@ -3,6 +3,14 @@ title: Changelog
 description: A list of changes for each Cakebot release.
 ---
 
+## v2020.04.24
+
+```diff
++ Added a profiler so we can find which functions are causing the bot to crash
+* Fixed errors being thrown when users just type the prefix
+* Internalized the ISS API implementation
+```
+
 ## v2020.04.15
 
 ```diff
