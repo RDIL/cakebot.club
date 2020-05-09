@@ -3,6 +3,14 @@ title: Changelog
 description: A list of changes for each Cakebot release.
 ---
 
+## v2020.05.08
+
+```diff
+- Disabled the aiohttp sentry integration
+* Updated PyGithub to 1.51
+* Updated Yappi to 1.2.5
+```
+
 ## v2020.04.24
 
 ```diff
