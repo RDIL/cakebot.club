@@ -62,6 +62,10 @@ module.exports = {
             {
               label: "GitHub",
               href: "https://github.com/cakebotpro/cakebot"
+            },
+            {
+              label: "Our Sponsor",
+              to: "sponsor"
             }
           ]
         }
