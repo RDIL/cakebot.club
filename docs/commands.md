@@ -71,8 +71,8 @@ If you don't know how to, [this short guide will help](https://www.w3schools.com
 
 :::
 
-| **Command Name**  | **Command Description**                                                | **Parameters**         |
-| ----------------- | ---------------------------------------------------------------------- | -----------------------|
-| `+reboot`         | Shut the bot down                                                      | None                   |
-| `+start-profiler` | Start the profiler (for developers only, this will slow the bot down!) | None                   |
-| `+stop-profiler`  | Stop the profiler                                                      | None                   |
+| **Command Name**  | **Command Description**                                                | **Parameters** |
+| ----------------- | ---------------------------------------------------------------------- | -------------- |
+| `+reboot`         | Shut the bot down                                                      | None           |
+| `+start-profiler` | Start the profiler (for developers only, this will slow the bot down!) | None           |
+| `+stop-profiler`  | Stop the profiler                                                      | None           |
