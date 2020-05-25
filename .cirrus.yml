@@ -9,6 +9,6 @@ task:
     folder: node_modules
     fingerprint_script: cat yarn.lock
     populate_script: yarn install
-    cleanup_script: yarn gh-pages-clean
-    build_script: yarn build
-    push_script: git remote set-url origin https://RDIL:${RDIL_TOKEN}@github.com/cakebotpro/cakebotpro.github.io.git && yarn gh-pages
+  cleanup_script: yarn gh-pages-clean
+  build_script: yarn build
+  push_script: git remote set-url origin https://RDIL:${RDIL_TOKEN}@github.com/cakebotpro/cakebotpro.github.io.git && yarn gh-pages
