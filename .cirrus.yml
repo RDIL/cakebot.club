@@ -1,0 +1,14 @@
+task:
+  name: Build and Deploy
+  env:
+    RDIL_TOKEN: ENCRYPTED[8bfee5aabaab737ad97b1474757e686f2849298a52e2a4a14c6e08c5f4850abe018a6d37a7d697b58d1ae6716bc9a7a8]
+  container:
+    image: node:12
+  config_id_script: git config --global user.name "RDILBot" && git config --global user.email "support@rdil.rocks"
+  Yarn_cache:
+    folder: node_modules
+    fingerprint_script: cat yarn.lock
+    populate_script: yarn install
+    cleanup_script: yarn gh-pages-clean
+    build_script: yarn build
+    push_script: git remote set-url origin https://RDIL:${RDIL_TOKEN}@github.com/cakebotpro/cakebotpro.github.io.git && yarn gh-pages
