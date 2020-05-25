@@ -76,4 +76,3 @@ If you don't know how to, [this short guide will help](https://www.w3schools.com
 | `+reboot`         | Shut the bot down                                                      | None                   |
 | `+start-profiler` | Start the profiler (for developers only, this will slow the bot down!) | None                   |
 | `+stop-profiler`  | Stop the profiler                                                      | None                   |
-| `+admin:reset`    | Set a user's cookie count back to 0.                                   | The person (@tag) them |
