@@ -3,6 +3,12 @@ title: Changelog
 description: A list of changes for each Cakebot release.
 ---
 
+## v2020.06.16
+
+```diff
+* Various fixes to try to reduce lag
+```
+
 ## v2020.05.08
 
 ```diff

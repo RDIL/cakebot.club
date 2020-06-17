@@ -17,12 +17,6 @@ All tickets are kept after being closed.
 
 > Tickets can be deleted upon request to a team member from the author.
 
-## Error Logging
-
-If an error within our code triggers while you are executing a command, we will capture your Discord username, ID, and discriminator.
-
-This data is stored by [Sentry](https://sentry.io).
-
 ## Change
 
 This privacy policy may change without warning if the team decides.

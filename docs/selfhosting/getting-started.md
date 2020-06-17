@@ -40,13 +40,3 @@ python -m pip install --upgrade --user -r requirements.txt
 Use `python3` instead of `python`.
 
 :::
-
-## Creating the Database
-
-Next, you will need to create the database. To do so, run:
-
-```shell
-python main.py initdb
-```
-
-(Keep in mind the warning from above!)

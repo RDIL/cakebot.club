@@ -67,18 +67,6 @@ If you really must use it (e.g. for testing), follow [this guide to creating a p
 
 You will need to create your own bot [here](https://discordapp.com/developers) (new application -> build a bot -> create bot) and generate/supply a token (which needs to be pasted into the "discord" value of the "tokens" object in the `config.json` file).
 
-### The Database
-
-:::important
-**You should only run this the first time.**
-:::
-
-Since we use a database to store some information in, you will need to run this command to create it:
-
-```shell
-$ python3 main.py initdb
-```
-
 ### Running the Bot
 
 We have a custom command-line interface for the bot, and so you will need to run it to launch the bot:
@@ -107,21 +95,21 @@ Here is the copyright header we require:
 
 ```python
 """
-    Cakebot - A cake themed Discord bot
-    Copyright (C) 2019-current year  Reece Dunham
+Cakebot - A cake themed Discord bot
+Copyright (C) 2019-current year  Reece Dunham
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU Affero General Public License for more details.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
 
-    You should have received a copy of the GNU Affero General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 ```
 
