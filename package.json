@@ -12,12 +12,12 @@
     "gh-pages": "gh-pages -d build -b master"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.56",
-    "@docusaurus/plugin-content-blog": "^2.0.0-alpha.56",
-    "@docusaurus/plugin-content-docs": "^2.0.0-alpha.56",
-    "@docusaurus/plugin-content-pages": "^2.0.0-alpha.56",
-    "@docusaurus/plugin-sitemap": "^2.0.0-alpha.56",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.56",
+    "@docusaurus/core": "^2.0.0-alpha.58",
+    "@docusaurus/plugin-content-blog": "^2.0.0-alpha.58",
+    "@docusaurus/plugin-content-docs": "^2.0.0-alpha.58",
+    "@docusaurus/plugin-content-pages": "^2.0.0-alpha.58",
+    "@docusaurus/plugin-sitemap": "^2.0.0-alpha.58",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.58",
     "classnames": "^2.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
