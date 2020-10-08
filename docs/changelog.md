@@ -3,6 +3,14 @@ title: Changelog
 description: A list of changes for each Cakebot release.
 ---
 
+## v2020.10.08
+
+```diff
+* More performance improvements
+* Make +info into an embed
+* Update dependencies
+```
+
 ## v2020.06.16
 
 ```diff

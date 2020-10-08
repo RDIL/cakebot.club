@@ -125,8 +125,8 @@ The bot runs on `v3.8.0` in production, so lower version syntax/features can pot
 
 The bot currently **does** support:
 
-- CPython `3.7.x`
-- CPython `3.8.x`
+-   CPython `3.7.x`
+-   CPython `3.8.x`
 
 > **However, we absolutely do not support Python versions older than `v3.6.x`.**
 

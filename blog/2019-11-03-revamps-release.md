@@ -13,16 +13,16 @@ Once again, we are very sorry for the lack of updates. It should get better now.
 
 New in this release:
 
-- Development experience has been improved :star:
-- Many bugs have been fixed - no more using `+report` without any message :bug:!
-- `+homepage` and `+stars` are out of beta and fully into the spotlight. Let us GitHubbers rejoyce!
+-   Development experience has been improved :star:
+-   Many bugs have been fixed - no more using `+report` without any message :bug:!
+-   `+homepage` and `+stars` are out of beta and fully into the spotlight. Let us GitHubbers rejoyce!
 
 <!--truncate-->
 
 ## New Commands
 
-- `+homepage` - allows you to get the homepage of a GitHub repository if it is set by the owner
-- `+stars` - allows you to get the stargazer count of a GitHub repository
+-   `+homepage` - allows you to get the homepage of a GitHub repository if it is set by the owner
+-   `+stars` - allows you to get the stargazer count of a GitHub repository
 
 ## Bugs Fixed
 
@@ -33,4 +33,4 @@ It is now _required_!!
 
 Thank you all for your continued support. It means the world to us.
 
-- The Cakebot Team
+-   The Cakebot Team

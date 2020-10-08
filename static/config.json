@@ -1,42 +1,42 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema",
-  "$id": "https://cakebot.club/config.json",
-  "type": "object",
-  "title": "The Root Schema",
-  "description": "The Cakebot configuration file.",
-  "required": ["tokens", "status"],
-  "properties": {
-    "tokens": {
-      "$id": "#/properties/tokens",
-      "type": "object",
-      "title": "The Tokens Schema",
-      "required": ["discord"],
-      "properties": {
-        "discord": {
-          "$id": "#/properties/tokens/properties/discord",
-          "type": "string",
-          "title": "The Discord Token",
-          "description": "The Discord login token."
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://cakebot.club/config.json",
+    "type": "object",
+    "title": "The Root Schema",
+    "description": "The Cakebot configuration file.",
+    "required": ["tokens", "status"],
+    "properties": {
+        "tokens": {
+            "$id": "#/properties/tokens",
+            "type": "object",
+            "title": "The Tokens Schema",
+            "required": ["discord"],
+            "properties": {
+                "discord": {
+                    "$id": "#/properties/tokens/properties/discord",
+                    "type": "string",
+                    "title": "The Discord Token",
+                    "description": "The Discord login token."
+                },
+                "github": {
+                    "$id": "#/properties/tokens/properties/github",
+                    "type": "string",
+                    "title": "The GitHub Token",
+                    "description": "The GitHub personal access token."
+                },
+                "wordsapi": {
+                    "$id": "#/properties/tokens/properties/wordsapi",
+                    "type": "string",
+                    "title": "The WordsAPI Token",
+                    "description": "The WordsAPI.com token."
+                }
+            }
         },
-        "github": {
-          "$id": "#/properties/tokens/properties/github",
-          "type": "string",
-          "title": "The GitHub Token",
-          "description": "The GitHub personal access token."
-        },
-        "wordsapi": {
-          "$id": "#/properties/tokens/properties/wordsapi",
-          "type": "string",
-          "title": "The WordsAPI Token",
-          "description": "The WordsAPI.com token."
+        "status": {
+            "$id": "#/properties/status",
+            "type": "string",
+            "title": "The Status Schema",
+            "description": "What to display as the bot status."
         }
-      }
-    },
-    "status": {
-      "$id": "#/properties/status",
-      "type": "string",
-      "title": "The Status Schema",
-      "description": "What to display as the bot status."
     }
-  }
 }
