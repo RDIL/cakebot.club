@@ -11,7 +11,7 @@ module.exports = {
             title: "Cakebot",
             logo: {
                 alt: "Cakebot Logo",
-                src: "img/logo.png",
+                src: "img/logoT.png",
             },
             items: [
                 {
