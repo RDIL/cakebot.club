@@ -7,6 +7,10 @@ module.exports = {
     organizationName: "cakebotpro",
     projectName: "cakebotpro.github.io",
     themeConfig: {
+        announcementBar: {
+            id: "cakebotv2blog",
+            content: "A BRAND NEW REWRITE OF CAKEBOT is now in the works. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/\">Read the blog post</a>!",
+        },
         navbar: {
             title: "Cakebot",
             logo: {

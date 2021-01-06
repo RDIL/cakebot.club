@@ -10,9 +10,7 @@ export default () => {
             title={"Downloads"}
             description="A page for the downloads of Cakebot."
         >
-            <header
-                className={clsx("hero hero--primary", styles.heroBanner)}
-            >
+            <header className={clsx("hero hero--primary", styles.heroBanner)}>
                 <div className="container">
                     <h1 className="hero__title">Downloads</h1>
                     <p className="hero__subtitle">

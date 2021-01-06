@@ -50,10 +50,11 @@ export default () => {
     const context = useDocusaurusContext()
     const { siteConfig = {} } = context
     return (
-        <Layout title={"Welcome"} description="The homepage for Cakebot.">
-            <header
-                className={clsx("hero hero--primary", styles.heroBanner)}
-            >
+        <Layout
+            title={"Welcome"}
+            description="The homepage for Cakebot, a modern and feature rich Discord bot."
+        >
+            <header className={clsx("hero hero--primary", styles.heroBanner)}>
                 <div className="container">
                     <h1 className="hero__title">{siteConfig.title}</h1>
                     <p className="hero__subtitle">{siteConfig.tagline}</p>
