@@ -9,7 +9,7 @@ module.exports = {
     themeConfig: {
         announcementBar: {
             id: "cakebotv2blog",
-            content: "A BRAND NEW REWRITE OF CAKEBOT is now in the works. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/\">Read the blog post</a>!",
+            content: "A BRAND NEW REWRITE OF CAKEBOT is now in the works. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/blog/2021/01/06/cakebot-2\">Read the blog post</a>!",
         },
         navbar: {
             title: "Cakebot",
