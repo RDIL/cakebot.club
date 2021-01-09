@@ -17,7 +17,7 @@ description: A list of commands you can run for Cakebot.
 | **Command Name** | **Command Description**                              | **Permission Required** | **Parameters**             |
 | ---------------- | ---------------------------------------------------- | ----------------------- | -------------------------- |
 | `+8`             | Ask our magic 8 ball your questions                  | Send chat messages      | Your question              |
-| `+joke`          | Get one of the bot's excelent Jokes                  | Send chat messages      | None                       |
+| `+joke`          | Get one of the bot's excellent jokes                 | Send chat messages      | None                       |
 | `+iss`           | Get the realtime location of the ISS                 | Send chat messages      | None                       |
 | `+slots`         | Play some slots without having to head to a casino!  | Send chat messages      | None                       |
 | `+coinflip`      | Flip a coin.                                         | Send chat messages      | None                       |
@@ -74,5 +74,3 @@ If you don't know how to, [this short guide will help](https://www.w3schools.com
 | **Command Name**  | **Command Description**                                                | **Parameters** |
 | ----------------- | ---------------------------------------------------------------------- | -------------- |
 | `+reboot`         | Shut the bot down                                                      | None           |
-| `+start-profiler` | Start the profiler (for developers only, this will slow the bot down!) | None           |
-| `+stop-profiler`  | Stop the profiler                                                      | None           |
