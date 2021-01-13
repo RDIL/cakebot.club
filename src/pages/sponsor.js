@@ -59,7 +59,10 @@ export default () => {
                                 out in favor of the TypeScript rewrite. Check
                                 the blog post for more details.
                             </p>
-                            <Link to={useBaseUrl("blog/2021/01/06/cakebot-2")} className="button button--outline button--secondary button--lg">
+                            <Link
+                                to={useBaseUrl("blog/2021/01/06/cakebot-2")}
+                                className="button button--outline button--secondary button--lg"
+                            >
                                 View Blog Post
                             </Link>
                         </div>

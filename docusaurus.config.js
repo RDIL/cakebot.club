@@ -9,7 +9,8 @@ module.exports = {
     themeConfig: {
         announcementBar: {
             id: "cakebotv2blog",
-            content: "A BRAND NEW REWRITE OF CAKEBOT is now in the works. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/blog/2021/01/06/cakebot-2\">Read the blog post</a>!",
+            content:
+                'A BRAND NEW REWRITE OF CAKEBOT is now in the works. <a target="_blank" rel="noopener noreferrer" href="/blog/2021/01/06/cakebot-2">Read the blog post</a>!',
         },
         navbar: {
             title: "Cakebot",
@@ -84,7 +85,7 @@ module.exports = {
                 docs: {
                     sidebarPath: require.resolve("./sidebars.js"),
                     editUrl:
-                        "https://github.com/cakebotpro/cakebotpro.github.io/edit/master/",
+                        "https://github.com/cakebotpro/cakebotpro.github.io/edit/docusaurus/",
                     showLastUpdateAuthor: true,
                     showLastUpdateTime: true,
                 },

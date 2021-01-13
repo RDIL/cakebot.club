@@ -71,6 +71,6 @@ If you don't know how to, [this short guide will help](https://www.w3schools.com
 
 :::
 
-| **Command Name**  | **Command Description**                                                | **Parameters** |
-| ----------------- | ---------------------------------------------------------------------- | -------------- |
-| `+reboot`         | Shut the bot down                                                      | None           |
+| **Command Name** | **Command Description** | **Parameters** |
+| ---------------- | ----------------------- | -------------- |
+| `+reboot`        | Shut the bot down       | None           |
