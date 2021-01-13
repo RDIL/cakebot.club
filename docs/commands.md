@@ -30,14 +30,14 @@ description: A list of commands you can run for Cakebot.
 >
 > _Note_: spamming `+slots` will cause lag for the bot.
 
-### Cookies
+### Cake
 
-With Cakebot, you can give users you like cookies. They are reflected across Discord and will have a leaderboard soon.
+With Cakebot, you can give users cakes. They are reflected across Discord and will have a leaderboard soon.
 
 | **Command Name** | **Command Description**              | **Permission Required** | **Parameters**         |
 | ---------------- | ------------------------------------ | ----------------------- | ---------------------- |
-| `+cookie give`   | Give a cookie to the mentioned user  | Send chat messages      | The person (@tag) them |
-| `+cookie bal`    | Get the number of cookies a user has | Send chat messages      | The person (@tag) them |
+| `+cake give`   | Give a cookie to the mentioned user  | Send chat messages      | The person (@tag) them |
+| `+cake count`    | Get the number of cookies a user has | Send chat messages      | The person (@tag) them |
 
 ## Educational
 
@@ -58,19 +58,3 @@ With Cakebot, you can give users you like cookies. They are reflected across Dis
 | ---------------- | ----------------------------------- | ----------------------- | ------------------------------------------ |
 | `+stars`         | Get the star count for a repository | Send chat messages      | The repository (e.g. `cakebotpro/cakebot`) |
 | `+homepage`      | Get the homepage for a repository   | Send chat messages      | The repository (e.g. `cakebotpro/cakebot`) |
-
-## Admin
-
-:::warning Permissions
-
-To run these commands, you will need to self-host Cakebot.
-To add yourself to the list of administrators for your Cakebot instance,
-open the `cakebot/UserUtil.py` file, and add your Discord user ID to the end of the list.
-If you don't know how to, [this short guide will help](https://www.w3schools.com/python/python_lists.asp)
-(take a look at the first exampe under the 'List' header).
-
-:::
-
-| **Command Name** | **Command Description** | **Parameters** |
-| ---------------- | ----------------------- | -------------- |
-| `+reboot`        | Shut the bot down       | None           |

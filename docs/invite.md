@@ -3,8 +3,6 @@ title: Invite the Bot
 description: Instructions on how to add Cakebot to your Discord server.
 ---
 
-import Vimeo from "@u-wave/react-vimeo"
-
 To invite the bot to your Discord server, follow these steps.
 
 1. Click [**here**](https://discordapp.com/oauth2/authorize?client_id=580573141898887199&scope=bot&permissions=523328) to open the Discord authorization menu.
@@ -16,6 +14,4 @@ To invite the bot to your Discord server, follow these steps.
 
 ## Video
 
-If you are a visual learner, this video may help:
-
-<Vimeo video="500074723" />
+If you are a visual learner, [**this video tutorial**](https://vimeo.com/500074723) may help.

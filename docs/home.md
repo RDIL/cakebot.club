@@ -13,7 +13,7 @@ Cakebot is a Discord bot written in TypeScript, with a focus on content, integra
 
 ## Get the Bot
 
-See [**this page**](/invite) for instructions on adding the bot to your server.
+See [**this page**](./invite) for instructions on adding the bot to your server.
 
 After installing, go ahead and drop a `+help` in any channel the bot has access to.
 It will let you know of all the commands you can use :smile:!

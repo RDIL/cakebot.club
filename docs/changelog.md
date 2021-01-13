@@ -3,7 +3,19 @@ title: Changelog
 description: A list of changes for each Cakebot release.
 ---
 
-## v2020.10.08
+## v1 Releases
+
+### v2021.01.01
+
+```diff
+* Change how a number of internals work
+* Move some of the external packages into the main repository
+* Update dependencies
+- Remove some code in favor of the v2 refactoring
+* Updated copyright headers
+```
+
+### v2020.10.08
 
 ```diff
 * More performance improvements
@@ -11,13 +23,13 @@ description: A list of changes for each Cakebot release.
 * Update dependencies
 ```
 
-## v2020.06.16
+### v2020.06.16
 
 ```diff
 * Various fixes to try to reduce lag
 ```
 
-## v2020.05.08
+### v2020.05.08
 
 ```diff
 - Disabled the aiohttp sentry integration
@@ -25,7 +37,7 @@ description: A list of changes for each Cakebot release.
 * Updated Yappi to 1.2.5
 ```
 
-## v2020.04.24
+### v2020.04.24
 
 ```diff
 + Added a profiler so we can find which functions are causing the bot to crash
@@ -33,7 +45,7 @@ description: A list of changes for each Cakebot release.
 * Internalized the ISS API implementation
 ```
 
-## v2020.04.15
+### v2020.04.15
 
 ```diff
 * Fixed the new define command hitting rate limiting
@@ -45,7 +57,7 @@ description: A list of changes for each Cakebot release.
 * Moved the joke command to TextCommandsUtil
 ```
 
-## v2020.04.09
+### v2020.04.09
 
 ```diff
 * Fixed some issues with the new define command
@@ -57,7 +69,7 @@ description: A list of changes for each Cakebot release.
 * Updated sqlalchemy from 1.3.15 to 1.3.16
 ```
 
-## v2020.04.03
+### v2020.04.03
 
 ```diff
 * We now use IDs for admin detection
@@ -70,7 +82,7 @@ description: A list of changes for each Cakebot release.
 + Added config schema
 ```
 
-## v2020.03.27
+### v2020.03.27
 
 ```diff
 * Moved out of the `club/cakebot` package.  We are now just `cakebot`.
@@ -90,7 +102,7 @@ description: A list of changes for each Cakebot release.
 - Ignored flake8 E999 due to false positives in some IDEs
 ```
 
-## v2020.03.16
+### v2020.03.16
 
 ```diff
 * Updated gitignore
@@ -101,6 +113,6 @@ description: A list of changes for each Cakebot release.
 * Fixed the report command
 ```
 
-## Older
+### Older
 
 Before March 16th of 2020, we didn't write changelogs. You can still see the changes in the Git history however.

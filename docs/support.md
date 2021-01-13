@@ -14,8 +14,8 @@ Example:
 +report Hello! Please add ____ command that does ____. Thanks!
 ```
 
-Basic documentation can be found [here](/docs/commands#help).
+Basic documentation can be found [here](commands.md#help).
 
 ## The slower way
 
-The slower of the two ways is to [shoot us an email](mailto:me@rdil.rocks).
+The slower of the two ways is to [shoot our team lead an email](mailto:me@rdil.rocks).

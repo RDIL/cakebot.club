@@ -5,6 +5,12 @@ description: A document that covers how we handle privacy.
 
 We take your privacy very seriously.
 
+:::info
+
+This specific version of this document applies to Cakebot v2 only.
+
+:::
+
 ## Website
 
 When you visit our website (https://cakebot.club and all subpages), we do not store cookies, or use trackers of any kind.
@@ -12,19 +18,15 @@ We employ [`DNSSEC` technology](https://www.icann.org/resources/pages/dnssec-wha
 
 ## Support Tickets
 
-When you file a support ticket, it is publicized while open. It does include your Discord username and tag so we can get back to you.
-All tickets are kept after being closed.
-
-> Tickets can be deleted upon request to a team member from the author.
+When you file a support ticket, it is saved to our servers while open.
+It does include your Discord username and tag so we can get back to you.
+All tickets are deleted after being closed.
 
 ## Change
 
 This privacy policy may change without warning if the team decides.
+You can see previous versions of it, as well as the changes made, in the Git revision history.
 
 ## Final Notes
 
 Any questions should be directed to [our public email](mailto:me@rdil.rocks).
-
----
-
-This page was last updated on Wednesday April 8th, 2020.
