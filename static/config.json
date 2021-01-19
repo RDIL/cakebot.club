@@ -3,7 +3,7 @@
     "$id": "https://cakebot.club/config.json",
     "type": "object",
     "title": "The Root Schema",
-    "description": "The Cakebot configuration file.",
+    "description": "The Cakebot configuration file (v1 only).",
     "required": ["tokens", "status"],
     "properties": {
         "tokens": {

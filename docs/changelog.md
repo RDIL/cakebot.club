@@ -3,6 +3,14 @@ title: Changelog
 description: A list of changes for each Cakebot release.
 ---
 
+## v2 Releases
+
+### v2.0.0
+
+```diff
++ TypeScript rewrite!
+```
+
 ## v1 Releases
 
 ### v2021.01.01
