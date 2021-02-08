@@ -32,12 +32,13 @@ description: A list of commands you can run for Cakebot.
 
 ### Cake
 
-With Cakebot, you can give users cakes. They are reflected across Discord and will have a leaderboard soon.
+With Cakebot, you can give users cakes. They are reflected across all Discord servers!
 
 | **Command Name** | **Command Description**              | **Permission Required** | **Parameters**         |
 | ---------------- | ------------------------------------ | ----------------------- | ---------------------- |
-| `+cake give`   | Give a cookie to the mentioned user  | Send chat messages      | The person (@tag) them |
+| `+cake give`     | Give a cookie to the mentioned user  | Send chat messages      | The person (@tag) them |
 | `+cake count`    | Get the number of cookies a user has | Send chat messages      | The person (@tag) them |
+| `+cake lb`       | View the most cakes leaderboard!     | Send chat messages      | None                   |
 
 ## Educational
 
@@ -45,6 +46,19 @@ With Cakebot, you can give users cakes. They are reflected across Discord and wi
 | ---------------- | ------------------------------ | ----------------------- | ------------------------- |
 | `+define`        | Define a word through WordsAPI | Send chat messages      | The word you want defined |
 | `+pi`            | Get the first 123 digits of Pi | Send chat messages      | None                      |
+
+## Events <span class="badge badge--primary">BETA</span>
+
+:::info New Feature!
+
+This feature is _brand new and may have issues_. Please let us know with the report command!
+
+:::
+
+| **Command Name** | **Command Description**                                                                                                                         | **Permission Required** | **Parameters**                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------- |
+| `+event create`  | Create a new event. The bot will repeat anything you say after `create`. If users react to the bot's message, they get signed up for the event. | Manage server           | The event's message (e.g. `React to this message to join movie night this Friday!`) |
+| `+event rsvp`    | Join the event that this Discord server is currently running.                                                                                   | Send chat messages      | None                                                                                |
 
 ## Help
 

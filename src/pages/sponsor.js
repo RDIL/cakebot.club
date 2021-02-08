@@ -61,7 +61,7 @@ export default () => {
                             </p>
                             <Link
                                 to={useBaseUrl("blog/2021/01/06/cakebot-2")}
-                                className="button button--outline button--secondary button--lg"
+                                className="button button--outline button--lg"
                             >
                                 View Blog Post
                             </Link>

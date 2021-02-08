@@ -5,6 +5,17 @@ description: A list of changes for each Cakebot release.
 
 ## v2 Releases
 
+### v2.1.0
+
+```diff
++ Nicer error messages.
++ iss command works again (releases now contain the required data, making them a lot bigger, but it uses a lot less networking now).
++ Cake giving now has a leaderboard!
+- Drop .env support, just define environment variables in your launcher.
++ Hookups now have access to the discord.js Client instance.
++ Added an events system!
+```
+
 ### v2.0.0
 
 ```diff

@@ -18,12 +18,14 @@ Next, open the file in your editor of choice and add this base template:
 ```js
 /* eslint-disable */
 
-process.env.DISCORD_TOKEN = "PASTE THE DISCORD BOT TOKEN HERE IN THESE QUOTATION MARKS"
+process.env.DISCORD_TOKEN =
+    "PASTE THE DISCORD BOT TOKEN HERE IN THESE QUOTATION MARKS"
 // You can also define any of the other environment variables here in the same way.
 
 // Requires
 const start = require("./build/index")
-const defaultCommandsHookup = require("./build/commands/commands").defaultCommandsHookup
+const defaultCommandsHookup = require("./build/commands/commands")
+    .defaultCommandsHookup
 
 // This is the start call. You should add all your hookups to this array.
 // Here in this template, we only add the default commands.
@@ -44,14 +46,19 @@ Each hookup recieves the `data` parameter, which has this TypeScript type declar
 /**
  * The data passed to each hookup function.
  */
-interface HookupData {
+type HookupData = {
     /**
      * The command registry holds all the bot's commands
      * and is checked each message to see if a registered command was run.
-     * 
+     *
      * @see https://github.com/cakebotpro/cakebot/blob/main/src/commands/registry.ts
      */
     commandRegistry: Registry
+
+    /**
+     * The discord.js client object.
+     */
+    botClient: Client
 }
 ```
 

@@ -40,8 +40,8 @@ const start = require("./build/index").start
 
 Keep this in mind though:
 
-- You need to add the `process.env` definitions ***before*** the `require` statement that imports Cakebot,
-or it will have the possibility of crashing.
+-   You need to add the `process.env` definitions **_before_** the `require` statement that imports Cakebot,
+    or it will have the possibility of crashing.
 
 ## Environment variables
 
@@ -84,7 +84,7 @@ The status that the bot displays on Discord.
 
 You can use the following placeholders in the status:
 
-- `(PREFIX)` - The bot's prefix (see also `BOT_PREFIX`)
+-   `(PREFIX)` - The bot's prefix (see also `BOT_PREFIX`)
 
 :::
 

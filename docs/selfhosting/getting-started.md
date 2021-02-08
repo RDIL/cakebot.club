@@ -5,9 +5,9 @@ description: A guide to get Cakebot set up on a computer of your choice.
 
 To start with self-hosting you will need the following things:
 
-* A machine to run the bot on
-* [Node.js](https://nodejs.org) v12 or v14 on said machine
-* [Git](https://git-scm.com) on said machine
+-   A machine to run the bot on
+-   [Node.js](https://nodejs.org) v14 on said machine
+-   [Git](https://git-scm.com) on said machine
 
 ## Get the bot
 

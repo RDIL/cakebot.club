@@ -4,7 +4,7 @@ import Link from "@docusaurus/Link"
 import clsx from "clsx"
 import styles from "./styles.module.css"
 
-export default () => {
+export default function Downloads() {
     return (
         <Layout
             title={"Downloads"}
@@ -26,20 +26,9 @@ export default () => {
                             "button button--secondary button--lg",
                             styles.spacing
                         )}
-                        to="https://api.github.com/repos/cakebotpro/cakebot/tarball/"
+                        to="https://github.com/cakebotpro/cakebot/releases/download/2.1.0/cakebot-v2.1.0.tgz"
                     >
-                        .tar.gz - macOS and Linux
-                    </Link>
-                </section>
-                <section className={styles.buttons}>
-                    <Link
-                        className={clsx(
-                            "button button--secondary button--lg",
-                            styles.spacing
-                        )}
-                        to="https://api.github.com/repos/cakebotpro/cakebot/zipball/"
-                    >
-                        .zip - Windows
+                        Latest Release Build
                     </Link>
                 </section>
             </main>

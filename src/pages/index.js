@@ -46,9 +46,10 @@ function Feature({ title, description }) {
     )
 }
 
-export default () => {
+export default function Index() {
     const context = useDocusaurusContext()
     const { siteConfig = {} } = context
+
     return (
         <Layout
             title={"Welcome"}
@@ -61,7 +62,7 @@ export default () => {
                     <div className={styles.buttons}>
                         <Link
                             className={clsx(
-                                "button button--outline button--secondary button--lg",
+                                "button button--outline button--lg",
                                 styles.getStarted
                             )}
                             to={useBaseUrl("docs/home/")}
