@@ -29,8 +29,6 @@ description: A list of commands you can run for Cakebot.
 > An example of clapify:
 > `+clapify its wednesday my dudes`
 > will output "its :clap: wednesday :clap: my :clap: dudes"
->
-> _Note_: spamming `+slots` will cause lag for the bot.
 
 ### Cake
 
