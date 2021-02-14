@@ -14,15 +14,17 @@ description: A list of commands you can run for Cakebot.
 
 ## Fun
 
-| **Command Name** | **Command Description**                              | **Permission Required** | **Parameters**             |
-| ---------------- | ---------------------------------------------------- | ----------------------- | -------------------------- |
-| `+8`             | Ask our magic 8 ball your questions                  | Send chat messages      | Your question              |
-| `+joke`          | Get one of the bot's excellent jokes                 | Send chat messages      | None                       |
-| `+iss`           | Get the realtime location of the ISS                 | Send chat messages      | None                       |
-| `+slots`         | Play some slots without having to head to a casino!  | Send chat messages      | None                       |
-| `+coinflip`      | Flip a coin.                                         | Send chat messages      | None                       |
-| `+clapify`       | Add claps in between each word in the given word set | Send chat messages      | The phrase to add claps to |
-| `+say`           | Have the bot repeat what you say.                    | Send chat messages      | What the bot should say    |
+| **Command Name** | **Command Description**                                     | **Permission Required** | **Parameters**             |
+| ---------------- | ----------------------------------------------------------- | ----------------------- | -------------------------- |
+| `+8`             | Ask our magic 8 ball your questions                         | Send chat messages      | Your question              |
+| `+joke`          | Get one of the bot's excellent jokes                        | Send chat messages      | None                       |
+| `+iss`           | Get the realtime location of the ISS                        | Send chat messages      | None                       |
+| `+slots`         | Play some slots without having to head to a casino!         | Send chat messages      | None                       |
+| `+coinflip`      | Flip a coin.                                                | Send chat messages      | None                       |
+| `+clapify`       | Add claps in between each word in the given word set        | Send chat messages      | The phrase to add claps to |
+| `+say`           | Have the bot repeat what you say.                           | Send chat messages      | What the bot should say    |
+| `+trump`         | Get a random Donald Trump quote (political trigger warning) | Send chat messages      | None                       |
+
 
 > An example of clapify:
 > `+clapify its wednesday my dudes`
