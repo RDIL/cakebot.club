@@ -78,32 +78,41 @@ module.exports = {
             copyright: "Copyright © 2019-present Cakebot",
         },
     },
-    presets: [
+    plugins: [
         [
-            "@docusaurus/preset-classic",
+            "@docusaurus/plugin-content-docs",
             {
-                docs: {
-                    sidebarPath: require.resolve("./sidebars.js"),
-                    editUrl:
-                        "https://github.com/cakebotpro/cakebotpro.github.io/edit/docusaurus/",
-                    showLastUpdateAuthor: true,
-                    showLastUpdateTime: true,
-                },
-                blog: {
-                    feedOptions: {
-                        type: "all",
-                        copyright: "Copyright (c) 2019-present Cakebot.",
-                        language: "en-US",
-                    },
-                },
-                theme: {
-                    customCss: require.resolve("./src/css/custom.css"),
-                },
-                sitemap: {
-                    cacheTime: 600 * 1000,
-                    changefreq: "weekly",
+                sidebarPath: require.resolve("./sidebars.js"),
+                editUrl:
+                    "https://github.com/cakebotpro/cakebotpro.github.io/edit/docusaurus/",
+                showLastUpdateAuthor: true,
+                showLastUpdateTime: true,
+            },
+        ],
+        [
+            "@docusaurus/plugin-content-blog",
+            {
+                feedOptions: {
+                    type: "all",
+                    copyright: "Copyright (c) 2019-present Cakebot.",
+                    language: "en-US",
                 },
             },
         ],
+        [
+            "@docusaurus/plugin-sitemap",
+            {
+                changefreq: "weekly",
+            },
+        ],
+        "@docusaurus/plugin-content-pages",
     ],
+    themes: [
+        [
+            "@docusaurus/theme-classic",
+            {
+                customCss: require.resolve("./src/css/custom.css"),
+            }
+        ]
+    ]
 }
